@@ -8,3 +8,7 @@ public class Firstjavaclass {
 	}
 
 }
+
+
+
+//Fuck new comment
